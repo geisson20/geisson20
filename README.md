@@ -41,6 +41,6 @@ I'm a full stack developer who loves to learn new things
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/geisson20"><img src="https://github-readme-stats.vercel.app/api?username=Geisson19&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="geisson20's GitHub stats" /></a>
+<a href="http://www.github.com/geisson20"><img src="https://github-readme-stats.vercel.app/api?username=geisson20&show_icons=true&hide=stars,issues,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="geisson20's GitHub stats" /></a>
 
-<a href="http://www.github.com/geisson20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Geisson19&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+<a href="http://www.github.com/geisson20"><img src="https://github-readme-streak-stats.herokuapp.com/?user=geisson20&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
